@@ -7,7 +7,7 @@ menu:
 
 <center>=============================</center>
 
-<h2 style="color:#F24800;text-align=center;">Ashok Kumar V</h2>
+<h2 style="color:#F24800; text-align=center;">Ashok Kumar V</h2>
 
 <h6 style="color:#444444; text-align:center">FAN OF TECHNOLOGY AND ENTREPRENEURSHIP</h6>
 
