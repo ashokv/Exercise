@@ -1,4 +1,4 @@
 ---
 layout: redirect.html
-destination: /
+destination: /qna/
 ---
