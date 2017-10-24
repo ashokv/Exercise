@@ -1,14 +1,14 @@
 site:
-  title: Netlify Exercise
-  baseline: Ashok Kumar V
+  title: Ashok Kumar
   baseurl: /
   description: Highly experienced and results-driven professional
   menu:
     main:
-      blog:
+      about:
         disabled: true
   paginate:
     disabled: true
     homepage:
       section: about
 theme: hyde
+
